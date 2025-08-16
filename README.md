@@ -25,8 +25,8 @@ Explore my featured projects and web development work directly on this site! Eac
 ---
 
 ##  Get in Touch 
-- **GitHub:** [github.com/yourusername](https://github.com/kokiqq)  
+- **GitHub:** [gh.com/koki](https://github.com/kokiqq)  
 
 ---
 
-> Built with ❤️ by [Your Name](https://github.com/kokiqq)
+> Built with ❤️ by [koki](https://github.com/kokiqq)
