@@ -1,7 +1,7 @@
 #  My Portfolio Website
 
 Welcome to my **personal portfolio**! This website showcases my projects, skills, and ways to connect with me.
-
+-#  edit; (done this while at school) this portfolio has been uodated majorly. will fix when im home ig.
 ---
 
 ##  Technologies Used
