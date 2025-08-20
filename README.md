@@ -3,7 +3,7 @@
 Welcome to my **personal portfolio**! This website showcases my projects, skills, and ways to connect with me.
 
 ---
--#  edit; (done this while at school) this portfolio has been uodated majorly. will fix when im home ig.
+-#  edit; (done this while at school) this portfolio has been updated majorly. will fix when im home ig.
 ##  Technologies Used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
